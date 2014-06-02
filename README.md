@@ -1,5 +1,4 @@
-Example of commutator calculations with sympy & IPython
-========================================================
+## Example of commutator calculations with sympy & IPython
 
 This example covers : 
 
