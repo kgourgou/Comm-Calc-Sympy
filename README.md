@@ -10,4 +10,4 @@ This example covers :
 
 * separating error terms of a particular order. 
 
-
+Useful knowledge for people interested in studying splitting schemes and their performance. 
